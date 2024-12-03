@@ -1,0 +1,4 @@
+name: JoneAPI
+version: '${project.version}'
+main: me.jone501.joneapi.JoneAPI
+api-version: '1.14'
